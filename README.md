@@ -34,4 +34,14 @@ The project involves developing a user-friendly and informative webpage for Mani
 # Complaint page
 ![image](https://github.com/user-attachments/assets/c6984f6c-13a9-4c26-906f-ab5d2146beb7)
 
+# Predicted output page
+![image](https://github.com/user-attachments/assets/f775e313-bc3a-4e84-aed3-a973d97d22a4)
+
+# Database of User details and Predicted details
+![image](https://github.com/user-attachments/assets/2fde5c5d-39fc-4e8c-ad6f-75555021384d)
+![image](https://github.com/user-attachments/assets/db808067-4ed6-47e4-95e9-966e19a8f32d)
+
+
+
+
 
